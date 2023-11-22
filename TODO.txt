@@ -1,0 +1,2 @@
+TODO: Implement routes and services to create and manage tasks
+TODO: Implement images in user profile

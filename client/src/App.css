@@ -1,0 +1,32 @@
+.container {
+    width: 30vw;
+    height: max-content;
+    margin: auto;
+    background-color: #8d8d8d;
+    padding: 20px 15px;
+    margin-top: 120px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 10px 15px rgba(0, 0, 0, 0.7);
+}
+
+.form-field {
+    display: inline-block;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.form-error {
+    display: block;
+    color: #e31;
+    font-size: 1rem;
+}
+
+.button {
+    padding: 5px;
+    margin-top: 5px;
+}
